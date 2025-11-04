@@ -1,5 +1,5 @@
 body {
-  font-family: "UnifrakturCook" Arial, sans-serif;
+  font-family:Arial, sans-serif;
   background-color: #f5f7fa;
   color: #333;
   text-align: center;
@@ -8,7 +8,7 @@ body {
 }
 
 header {
-  background-color: #007acc;
+  background-color: #113d3a;
   color: white;
   padding: 1.5em 0;
 }
@@ -31,7 +31,7 @@ main {
   display: inline-block;
   margin: 0.5em;
   padding: 0.75em 1.5em;
-  background-color: #007acc;
+  background-color: #113d3a;
   color: white;
   text-decoration: none;
   border-radius: 8px;
@@ -47,5 +47,6 @@ footer {
   background-color: #eee;
   padding: 1em 0;
 }
+
 
 
