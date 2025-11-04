@@ -1,5 +1,5 @@
 body {
-  font-family: Arial, sans-serif;
+  font-family: "Helvetica" Arial, sans-serif;
   background-color: #f5f7fa;
   color: #333;
   text-align: center;
@@ -47,3 +47,4 @@ footer {
   background-color: #eee;
   padding: 1em 0;
 }
+
