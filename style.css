@@ -1,3 +1,31 @@
+.external-links {
+  margin: 20px 0;
+  text-align: center;
+}
+
+.external-links p {
+  font-weight: bold;
+}
+
+.external-links ul {
+  list-style: none;
+  padding: 0;
+}
+
+.external-links li {
+  display: inline-block;
+  margin: 0 10px;
+}
+
+.external-links a {
+  color: #0077cc;
+  text-decoration: none;
+  font-weight: 500;
+}
+
+.external-links a:hover {
+  text-decoration: underline;
+}
 body {
   font-family:Arial, sans-serif;
   background-color: #f5f7fa;
@@ -57,6 +85,7 @@ footer {
   background-color: #eee;
   padding: 1em 0;
 }
+
 
 
 
