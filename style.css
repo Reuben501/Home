@@ -69,6 +69,10 @@ main {
   transition: background-color 0.3s;
 }
 
+.button2 {
+  height: 35px; 
+}
+
 .button:hover {
   background-color: #631c46;
 }
@@ -86,6 +90,7 @@ footer {
   background-color: #eee;
   padding: 1em 0;
 }
+
 
 
 
